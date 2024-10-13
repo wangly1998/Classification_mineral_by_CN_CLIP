@@ -1,0 +1,157 @@
+2024-08-28 16:51:51,476 - INFO - Epoch 1/20, Loss: 4.8084, Acc: 0.0774, Validation Acc: 0.2386
+2024-08-28 16:53:36,503 - INFO - Epoch 2/20, Loss: 2.4973, Acc: 0.4158, Validation Acc: 0.5606
+2024-08-28 16:55:20,770 - INFO - Epoch 3/20, Loss: 1.4619, Acc: 0.6346, Validation Acc: 0.7652
+2024-08-28 16:57:03,591 - INFO - Epoch 4/20, Loss: 0.8719, Acc: 0.7826, Validation Acc: 0.8068
+2024-08-28 16:58:43,928 - INFO - Epoch 5/20, Loss: 0.6562, Acc: 0.8244, Validation Acc: 0.7765
+2024-08-28 17:00:22,429 - INFO - Epoch 6/20, Loss: 0.5457, Acc: 0.8562, Validation Acc: 0.8295
+2024-08-28 17:02:00,169 - INFO - Epoch 7/20, Loss: 0.4312, Acc: 0.8733, Validation Acc: 0.8598
+2024-08-28 17:03:37,426 - INFO - Epoch 8/20, Loss: 0.2744, Acc: 0.9212, Validation Acc: 0.8371
+2024-08-28 17:05:57,497 - INFO - Epoch 9/20, Loss: 0.2744, Acc: 0.9241, Validation Acc: 0.8788
+2024-08-28 17:08:34,845 - INFO - Epoch 10/20, Loss: 0.1395, Acc: 0.9568, Validation Acc: 0.8902
+2024-08-28 17:11:12,932 - INFO - Epoch 11/20, Loss: 0.1352, Acc: 0.9606, Validation Acc: 0.8826
+2024-08-28 17:13:28,954 - INFO - Epoch 12/20, Loss: 0.1057, Acc: 0.9739, Validation Acc: 0.8750
+2024-08-28 17:15:29,399 - INFO - Epoch 13/20, Loss: 0.1157, Acc: 0.9663, Validation Acc: 0.8826
+2024-08-28 17:18:39,367 - INFO - Epoch 14/20, Loss: 0.1002, Acc: 0.9639, Validation Acc: 0.8750
+2024-08-28 17:21:45,523 - INFO - Epoch 15/20, Loss: 0.0712, Acc: 0.9786, Validation Acc: 0.8902
+2024-08-28 17:24:40,697 - INFO - Epoch 16/20, Loss: 0.0589, Acc: 0.9843, Validation Acc: 0.9015
+2024-08-28 17:27:55,262 - INFO - Epoch 17/20, Loss: 0.0561, Acc: 0.9824, Validation Acc: 0.8977
+2024-08-28 17:30:44,409 - INFO - Epoch 18/20, Loss: 0.0692, Acc: 0.9796, Validation Acc: 0.8750
+2024-08-28 17:33:26,358 - INFO - Epoch 19/20, Loss: 0.0965, Acc: 0.9744, Validation Acc: 0.8561
+2024-08-28 17:35:22,562 - INFO - Epoch 20/20, Loss: 0.0800, Acc: 0.9772, Validation Acc: 0.8674
+2024-08-28 17:35:32,113 - INFO - Top-1 Recall: 0.9011
+2024-08-28 17:35:32,114 - INFO - Top-5 Recall: 0.9696
+2024-08-28 17:35:32,114 - INFO - Top-10 Recall: 0.9886
+2024-08-28 17:35:32,114 - INFO - Precision: 0.7345
+2024-08-28 17:35:32,114 - INFO - Recall: 0.7455
+2024-08-28 17:35:32,114 - INFO - F1 Score: 0.7359
+2024-09-12 15:34:19,447 - INFO - Epoch 1/20, Loss: 4.2142, Acc: 0.0944, Validation Acc: 0.4015
+2024-09-12 15:35:59,470 - INFO - Epoch 2/20, Loss: 2.1825, Acc: 0.4547, Validation Acc: 0.6250
+2024-09-12 15:37:43,413 - INFO - Epoch 3/20, Loss: 1.0735, Acc: 0.7010, Validation Acc: 0.8030
+2024-09-12 15:39:28,880 - INFO - Epoch 4/20, Loss: 0.6451, Acc: 0.8097, Validation Acc: 0.8598
+2024-09-12 15:41:16,701 - INFO - Epoch 5/20, Loss: 0.4221, Acc: 0.8780, Validation Acc: 0.9318
+2024-09-12 15:43:33,208 - INFO - Epoch 6/20, Loss: 0.3435, Acc: 0.8937, Validation Acc: 0.9129
+2024-09-12 15:46:13,505 - INFO - Epoch 7/20, Loss: 0.1689, Acc: 0.9483, Validation Acc: 0.9394
+2024-09-12 15:48:08,200 - INFO - Epoch 8/20, Loss: 0.2054, Acc: 0.9302, Validation Acc: 0.9280
+2024-09-12 15:50:55,587 - INFO - Epoch 9/20, Loss: 0.0937, Acc: 0.9701, Validation Acc: 0.9508
+2024-09-12 15:53:07,055 - INFO - Epoch 10/20, Loss: 0.0871, Acc: 0.9720, Validation Acc: 0.9432
+2024-09-12 15:54:48,575 - INFO - Epoch 11/20, Loss: 0.0951, Acc: 0.9677, Validation Acc: 0.9432
+2024-09-12 15:56:53,647 - INFO - Epoch 12/20, Loss: 0.0361, Acc: 0.9877, Validation Acc: 0.9545
+2024-09-12 15:59:23,417 - INFO - Epoch 13/20, Loss: 0.0785, Acc: 0.9739, Validation Acc: 0.9432
+2024-09-12 16:01:59,474 - INFO - Epoch 14/20, Loss: 0.0616, Acc: 0.9815, Validation Acc: 0.9242
+2024-09-12 16:04:35,443 - INFO - Epoch 15/20, Loss: 0.0993, Acc: 0.9658, Validation Acc: 0.9659
+2024-09-12 16:07:13,424 - INFO - Epoch 16/20, Loss: 0.0531, Acc: 0.9862, Validation Acc: 0.9583
+2024-09-12 16:09:58,029 - INFO - Epoch 17/20, Loss: 0.0354, Acc: 0.9891, Validation Acc: 0.9659
+2024-09-12 16:12:39,701 - INFO - Epoch 18/20, Loss: 0.0190, Acc: 0.9953, Validation Acc: 0.9659
+2024-09-12 16:15:27,396 - INFO - Epoch 19/20, Loss: 0.0238, Acc: 0.9929, Validation Acc: 0.9697
+2024-09-12 16:18:11,814 - INFO - Epoch 20/20, Loss: 0.0122, Acc: 0.9967, Validation Acc: 0.9735
+2024-09-12 16:18:27,243 - INFO - Top-1 Recall: 0.9582
+2024-09-12 16:18:27,244 - INFO - Top-5 Recall: 0.9924
+2024-09-12 16:18:27,244 - INFO - Top-10 Recall: 0.9924
+2024-09-12 16:18:27,244 - INFO - Precision: 0.9525
+2024-09-12 16:18:27,244 - INFO - Recall: 0.9305
+2024-09-12 16:18:27,244 - INFO - F1 Score: 0.9349
+2024-09-16 19:37:32,471 - INFO - Epoch 1/20, Loss: 4.5610, Acc: 0.0403, Validation Acc: 0.1136
+2024-09-16 19:39:40,114 - INFO - Epoch 2/20, Loss: 3.3486, Acc: 0.2278, Validation Acc: 0.3258
+2024-09-16 19:42:48,464 - INFO - Epoch 3/20, Loss: 2.2717, Acc: 0.4072, Validation Acc: 0.4735
+2024-09-16 19:45:47,437 - INFO - Epoch 4/20, Loss: 1.7682, Acc: 0.5278, Validation Acc: 0.6326
+2024-09-16 19:48:57,195 - INFO - Epoch 5/20, Loss: 1.2476, Acc: 0.6493, Validation Acc: 0.7803
+2024-09-16 19:52:13,778 - INFO - Epoch 6/20, Loss: 1.0524, Acc: 0.6944, Validation Acc: 0.7008
+2024-09-16 19:55:45,421 - INFO - Epoch 7/20, Loss: 0.8488, Acc: 0.7579, Validation Acc: 0.7803
+2024-09-16 19:59:29,517 - INFO - Epoch 8/20, Loss: 0.7463, Acc: 0.7807, Validation Acc: 0.8598
+2024-09-16 20:03:49,539 - INFO - Epoch 9/20, Loss: 0.6508, Acc: 0.8125, Validation Acc: 0.8371
+2024-09-16 20:07:37,154 - INFO - Epoch 10/20, Loss: 0.4957, Acc: 0.8552, Validation Acc: 0.8371
+2024-09-16 20:11:22,166 - INFO - Epoch 11/20, Loss: 0.5118, Acc: 0.8458, Validation Acc: 0.8371
+2024-09-16 20:15:01,943 - INFO - Epoch 12/20, Loss: 0.4380, Acc: 0.8733, Validation Acc: 0.8939
+2024-09-16 20:18:37,117 - INFO - Epoch 13/20, Loss: 0.4100, Acc: 0.8790, Validation Acc: 0.8939
+2024-09-16 20:21:58,855 - INFO - Epoch 14/20, Loss: 0.3782, Acc: 0.8880, Validation Acc: 0.8750
+2024-09-16 20:25:24,729 - INFO - Epoch 15/20, Loss: 0.3453, Acc: 0.9075, Validation Acc: 0.9167
+2024-09-16 20:27:43,132 - INFO - Epoch 16/20, Loss: 0.3222, Acc: 0.9103, Validation Acc: 0.9242
+2024-09-16 20:30:43,499 - INFO - Epoch 17/20, Loss: 0.2937, Acc: 0.9165, Validation Acc: 0.9205
+2024-09-16 20:34:30,994 - INFO - Epoch 18/20, Loss: 0.2804, Acc: 0.9160, Validation Acc: 0.8977
+2024-09-16 20:38:15,448 - INFO - Epoch 19/20, Loss: 0.2315, Acc: 0.9317, Validation Acc: 0.8902
+2024-09-16 20:42:01,111 - INFO - Epoch 20/20, Loss: 0.2169, Acc: 0.9336, Validation Acc: 0.9167
+2024-09-16 20:42:23,645 - INFO - Top-1 Recall: 0.9240
+2024-09-16 20:42:23,645 - INFO - Top-5 Recall: 0.9772
+2024-09-16 20:42:23,646 - INFO - Top-10 Recall: 0.9886
+2024-09-16 20:42:23,646 - INFO - Precision: 0.8899
+2024-09-16 20:42:23,646 - INFO - Recall: 0.9061
+2024-09-16 20:42:23,646 - INFO - F1 Score: 0.8870
+
+2024-09-18 10:31:31,827 - INFO - Epoch 1/20, Loss: 5.8190, Acc: 0.0157, Validation Acc: 0.0114
+2024-09-18 10:36:13,814 - INFO - Epoch 2/20, Loss: 4.6745, Acc: 0.0204, Validation Acc: 0.0114
+2024-09-18 10:40:54,999 - INFO - Epoch 3/20, Loss: 4.6686, Acc: 0.0204, Validation Acc: 0.0114
+2024-09-18 10:45:36,519 - INFO - Epoch 4/20, Loss: 4.6636, Acc: 0.0199, Validation Acc: 0.0114
+2024-09-18 10:50:17,946 - INFO - Epoch 5/20, Loss: 4.6637, Acc: 0.0199, Validation Acc: 0.0114
+2024-09-18 10:55:26,892 - INFO - Epoch 6/20, Loss: 4.6620, Acc: 0.0199, Validation Acc: 0.0114
+2024-09-18 11:00:10,185 - INFO - Epoch 7/20, Loss: 4.6615, Acc: 0.0195, Validation Acc: 0.0114
+2024-09-18 11:04:29,833 - INFO - Epoch 8/20, Loss: 4.6618, Acc: 0.0204, Validation Acc: 0.0114
+2024-09-18 11:09:00,011 - INFO - Epoch 9/20, Loss: 4.6611, Acc: 0.0204, Validation Acc: 0.0114
+2024-09-18 11:13:31,817 - INFO - Epoch 10/20, Loss: 4.6612, Acc: 0.0204, Validation Acc: 0.0114
+2024-09-18 11:17:59,917 - INFO - Epoch 11/20, Loss: 4.6609, Acc: 0.0204, Validation Acc: 0.0114
+2024-09-18 11:22:09,482 - INFO - Epoch 12/20, Loss: 4.6608, Acc: 0.0204, Validation Acc: 0.0114
+2024-09-18 11:26:28,915 - INFO - Epoch 13/20, Loss: 4.6592, Acc: 0.0204, Validation Acc: 0.0114
+2024-09-18 11:31:13,163 - INFO - Epoch 14/20, Loss: 4.6597, Acc: 0.0199, Validation Acc: 0.0114
+2024-09-18 11:35:39,983 - INFO - Epoch 15/20, Loss: 4.6593, Acc: 0.0204, Validation Acc: 0.0114
+2024-09-18 11:39:50,857 - INFO - Epoch 16/20, Loss: 4.6587, Acc: 0.0204, Validation Acc: 0.0114
+2024-09-18 11:43:38,474 - INFO - Epoch 17/20, Loss: 4.6586, Acc: 0.0204, Validation Acc: 0.0114
+2024-09-18 11:47:25,510 - INFO - Epoch 18/20, Loss: 4.6595, Acc: 0.0190, Validation Acc: 0.0114
+2024-09-18 11:51:09,386 - INFO - Epoch 19/20, Loss: 4.6584, Acc: 0.0209, Validation Acc: 0.0114
+2024-09-18 11:54:52,245 - INFO - Epoch 20/20, Loss: 4.6586, Acc: 0.0204, Validation Acc: 0.0114
+2024-09-18 11:55:13,539 - INFO - Top-1 Recall: 0.0076
+2024-09-18 11:55:13,540 - INFO - Top-5 Recall: 0.0760
+2024-09-18 11:55:13,540 - INFO - Top-10 Recall: 0.0951
+2024-09-18 11:55:13,540 - INFO - Precision: 0.0001
+2024-09-18 11:55:13,540 - INFO - Recall: 0.0102
+2024-09-18 11:55:13,540 - INFO - F1 Score: 0.0002
+2024-09-20 11:45:31,643 - INFO - Epoch 1/20, Loss: 4.6899, Acc: 0.0123, Validation Acc: 0.0114
+2024-09-20 11:49:29,931 - INFO - Epoch 2/20, Loss: 4.6735, Acc: 0.0195, Validation Acc: 0.0114
+2024-09-20 11:53:24,167 - INFO - Epoch 3/20, Loss: 4.6680, Acc: 0.0176, Validation Acc: 0.0114
+2024-09-20 11:57:15,254 - INFO - Epoch 4/20, Loss: 4.6669, Acc: 0.0180, Validation Acc: 0.0038
+2024-09-20 12:01:03,687 - INFO - Epoch 5/20, Loss: 4.6618, Acc: 0.0209, Validation Acc: 0.0114
+2024-09-20 12:04:52,535 - INFO - Epoch 6/20, Loss: 4.6655, Acc: 0.0195, Validation Acc: 0.0114
+2024-09-20 12:08:43,468 - INFO - Epoch 7/20, Loss: 4.6594, Acc: 0.0195, Validation Acc: 0.0114
+2024-09-20 12:12:36,812 - INFO - Epoch 8/20, Loss: 4.6606, Acc: 0.0214, Validation Acc: 0.0114
+2024-09-20 12:16:28,538 - INFO - Epoch 9/20, Loss: 4.6573, Acc: 0.0180, Validation Acc: 0.0114
+2024-09-20 12:20:18,000 - INFO - Epoch 10/20, Loss: 4.6560, Acc: 0.0209, Validation Acc: 0.0114
+2024-09-20 12:24:09,542 - INFO - Epoch 11/20, Loss: 4.6573, Acc: 0.0223, Validation Acc: 0.0114
+2024-09-20 12:28:04,130 - INFO - Epoch 12/20, Loss: 4.6563, Acc: 0.0223, Validation Acc: 0.0114
+2024-09-20 12:31:55,157 - INFO - Epoch 13/20, Loss: 4.6532, Acc: 0.0199, Validation Acc: 0.0114
+2024-09-20 12:36:11,723 - INFO - Epoch 14/20, Loss: 4.6494, Acc: 0.0228, Validation Acc: 0.0114
+2024-09-20 12:40:03,727 - INFO - Epoch 15/20, Loss: 4.6484, Acc: 0.0223, Validation Acc: 0.0114
+2024-09-20 12:43:57,611 - INFO - Epoch 16/20, Loss: 4.6343, Acc: 0.0223, Validation Acc: 0.0152
+2024-09-20 12:47:51,733 - INFO - Epoch 17/20, Loss: 4.6148, Acc: 0.0233, Validation Acc: 0.0227
+2024-09-20 12:51:39,983 - INFO - Epoch 18/20, Loss: 4.5692, Acc: 0.0256, Validation Acc: 0.0114
+2024-09-20 12:55:28,733 - INFO - Epoch 19/20, Loss: 4.5504, Acc: 0.0256, Validation Acc: 0.0152
+2024-09-20 12:59:17,186 - INFO - Epoch 20/20, Loss: 4.5046, Acc: 0.0199, Validation Acc: 0.0189
+2024-09-20 12:59:39,143 - INFO - Top-1 Recall: 0.0266
+2024-09-20 12:59:39,144 - INFO - Top-5 Recall: 0.1027
+2024-09-20 12:59:39,144 - INFO - Top-10 Recall: 0.1597
+2024-09-20 12:59:39,144 - INFO - Precision: 0.0018
+2024-09-20 12:59:39,144 - INFO - Recall: 0.0255
+2024-09-20 12:59:39,144 - INFO - F1 Score: 0.0032
+2024-09-24 16:53:38,941 - INFO - Epoch 1/20, Loss: 4.5129, Acc: 0.0494, Validation Acc: 0.1597
+2024-09-24 16:56:22,744 - INFO - Epoch 2/20, Loss: 3.1928, Acc: 0.2435, Validation Acc: 0.3992
+2024-09-24 16:59:20,606 - INFO - Epoch 3/20, Loss: 2.2366, Acc: 0.4186, Validation Acc: 0.4144
+2024-09-24 17:02:32,982 - INFO - Epoch 4/20, Loss: 1.6737, Acc: 0.5439, Validation Acc: 0.6578
+2024-09-24 17:05:33,004 - INFO - Epoch 5/20, Loss: 1.2835, Acc: 0.6255, Validation Acc: 0.6806
+2024-09-24 17:08:19,625 - INFO - Epoch 6/20, Loss: 1.1026, Acc: 0.6801, Validation Acc: 0.7681
+2024-09-24 17:10:48,095 - INFO - Epoch 7/20, Loss: 0.8554, Acc: 0.7485, Validation Acc: 0.6692
+2024-09-24 17:13:13,676 - INFO - Epoch 8/20, Loss: 0.7639, Acc: 0.7907, Validation Acc: 0.8213
+2024-09-24 17:15:37,456 - INFO - Epoch 9/20, Loss: 0.6091, Acc: 0.8334, Validation Acc: 0.7110
+2024-09-24 17:18:01,322 - INFO - Epoch 10/20, Loss: 0.5966, Acc: 0.8230, Validation Acc: 0.7871
+2024-09-24 17:20:24,568 - INFO - Epoch 11/20, Loss: 0.4648, Acc: 0.8638, Validation Acc: 0.8175
+2024-09-24 17:22:48,375 - INFO - Epoch 12/20, Loss: 0.4645, Acc: 0.8567, Validation Acc: 0.8593
+2024-09-24 17:25:11,174 - INFO - Epoch 13/20, Loss: 0.4104, Acc: 0.8847, Validation Acc: 0.7338
+2024-09-24 17:27:34,894 - INFO - Epoch 14/20, Loss: 0.3519, Acc: 0.8918, Validation Acc: 0.8137
+2024-09-24 17:29:59,028 - INFO - Epoch 15/20, Loss: 0.3680, Acc: 0.8984, Validation Acc: 0.8175
+2024-09-24 17:32:22,113 - INFO - Epoch 16/20, Loss: 0.3135, Acc: 0.9075, Validation Acc: 0.8327
+2024-09-24 17:34:45,374 - INFO - Epoch 17/20, Loss: 0.2900, Acc: 0.9146, Validation Acc: 0.8213
+2024-09-24 17:37:09,121 - INFO - Epoch 18/20, Loss: 0.2685, Acc: 0.9217, Validation Acc: 0.8441
+2024-09-24 17:39:31,780 - INFO - Epoch 19/20, Loss: 0.2248, Acc: 0.9355, Validation Acc: 0.8821
+2024-09-24 17:41:55,031 - INFO - Epoch 20/20, Loss: 0.1901, Acc: 0.9411, Validation Acc: 0.8479
+2024-09-24 17:42:08,986 - INFO - Top-1 Recall: 0.8030
+2024-09-24 17:42:08,986 - INFO - Top-5 Recall: 0.9659
+2024-09-24 17:42:08,986 - INFO - Top-10 Recall: 0.9886
+2024-09-24 17:42:08,986 - INFO - Precision: 0.8118
+2024-09-24 17:42:08,986 - INFO - Recall: 0.8135
+2024-09-24 17:42:08,986 - INFO - F1 Score: 0.7775

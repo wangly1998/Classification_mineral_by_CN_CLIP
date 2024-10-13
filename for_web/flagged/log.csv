@@ -1,0 +1,4 @@
+image,descriptions,output,flag,username,timestamp
+flagged\image\b05b0a6306a30737fcd5\1.jpg,"二辉橄榄岩, 闪长岩, 大理岩, 灰岩","{""label"": null, ""confidences"": null}",,,2024-08-20 22:30:12.634897
+flagged\Thin image 输入岩石薄片图片\1e21f98aaa0638a9e9ac\1.jpg,"橄榄石,角闪石,石英,斜长石",ViT-B-16,,,"{""\u6a44\u6984\u77f3"": 0.9085431694984436, ""\u89d2\u95ea\u77f3"": 0.021481221541762352, ""\u77f3\u82f1"": 0.06997118145227432, ""\u659c\u957f\u77f3"": 4.48583205070463e-06}",,,2024-08-21 17:17:24.193675
+flagged\Thin image 输入岩石薄片图片\47cb3a4ab1c5ed1b7daf\1.jpg,rock_name_dir,ViT-L-14-336,这是一个包含{}矿物的薄片,,"{""label"": null, ""confidences"": null}",,,2024-09-11 16:57:07.929405
